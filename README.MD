@@ -1,5 +1,5 @@
 # Welcome
-Example component to show welcome messaeg.
+Example component to show welcome message.
 
 ## usage
 
