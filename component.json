@@ -1,7 +1,7 @@
 {
     "name": "Welcomes",
     "id": "welcome",
-    "description": "Welcome component, just show welcome message instead of hello world.",
+    "description": "Welcome component. Just shows a welcome message instead of hello world.",
     "version": "1.0.0",
     "status": true,
     "author": {

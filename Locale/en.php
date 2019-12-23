@@ -1,4 +1,4 @@
 <?php
- return [
-    'title:welcome:hello' => 'Welcome In this website',
+return [
+    'title:welcome:hello' => 'Welcome to this website',
 ];
