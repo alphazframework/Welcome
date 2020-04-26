@@ -1,12 +1,12 @@
 # Welcome
-Example component to show welcome message.
+Example component to show a welcome message.
 
 ## usage
 
 You can install this component easily by using [Component Installer](https://github.com/zestframework/com_installer)
-If you dont want to use installer then perform following steps.
+If you don't want to use the installer, then perform the following steps.
 - Clone this repo in your /App/Components folder.
-- Congratulate you have done.
+- Congratulations! You've done it.
 
 After installing/copy this component, visit like
 
